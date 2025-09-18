@@ -26,11 +26,7 @@ Welcome to the Budget App! This project is a personal finance management tool de
 
 ### Installation
 
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/kaungmyathan22/nextjs-budget-app.git
-    cd nextjs-budget-app
-    ```
+1. Clone the repository
 
 2. Install dependencies:
     ```bash
