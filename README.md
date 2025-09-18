@@ -90,11 +90,6 @@ Contributions are welcome! If you have suggestions for new features or improveme
     git push origin feature-name
     ```
 5. Open a pull request.
-
-## Contact
-
-If you have any questions or feedback, please reach out to me at [kaungmyathan2222@gmail.com](mailto:kaungmyathan2222@gmail.com).
-
 ---
 
 Thank you for checking out the Budget App! Happy budgeting!
